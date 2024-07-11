@@ -7,4 +7,5 @@ This reggae music app is a simple website built with HTML, CSS, and JavaScript. 
 
 ## Screenshots of app
 
-![image](https://github.com/HilarioNengareJr/Reggae-Music-Player/assets/38634516/5c35435e-2885-4c8f-ab33-d3ab9695e54a)
+![image](https://github.com/HilarioNengareJr/Reggae-Music-Player/assets/38634516/d3fa10b1-4347-4ec3-b197-6881db207224)
+
